@@ -2,6 +2,7 @@ import React from "react";
 import ChatListComponent from "../chatList/chatList";
 import ChatViewComponent from "../chatview/chatView";
 import ChatTextBoxComponent from "../chattextbox/chatTextBox";
+import NewChatComponent from "../newchat/newChat";
 import { Button, withStyles } from "@material-ui/core";
 import styles from "./styles";
 
